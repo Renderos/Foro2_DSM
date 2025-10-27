@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513552341527",
+    "project_id": "controlgastos-b20c8",
+    "storage_bucket": "controlgastos-b20c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513552341527:android:0a5f25c8955e3859015a52",
+        "android_client_info": {
+          "package_name": "com.example.controlgastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513552341527-bhbbjstthbl6en0dq4vllr7fui2i7vjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controlgastos",
+            "certificate_hash": "7b6c840b1ab46ff54221fb71a24d987f550948cd"
+          }
+        },
+        {
+          "client_id": "513552341527-kannf8s4pgv1luu9dit60u6njau93kfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHodn98B3jmWlbYgdlsaMNb0s7MRSQkU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513552341527-kannf8s4pgv1luu9dit60u6njau93kfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
