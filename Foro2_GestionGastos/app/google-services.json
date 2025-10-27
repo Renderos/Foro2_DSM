@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895194366144",
+    "project_id": "gestiongastos-2e3fd",
+    "storage_bucket": "gestiongastos-2e3fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895194366144:android:cd4f398b479bd1fbaaad25",
+        "android_client_info": {
+          "package_name": "com.example.foro2_gestiongastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-BQlo51EekF7pGC4tKY_0TxaVRtSKqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
